@@ -6,7 +6,7 @@ The Adaptive E-Learning Platform is an innovative educational system designed to
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
-Projects
+# Projects
 - Project 1: 
 Adaptive E-Learning Platform
 
