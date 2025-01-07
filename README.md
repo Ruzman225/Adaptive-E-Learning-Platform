@@ -5,8 +5,7 @@ The Adaptive E-Learning Platform is an innovative educational system designed to
 ### Hello, I'm Ruzman R Sanadi
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
-
-🛠️ Projects
+Projects
 - Project 1: 
 Adaptive E-Learning Platform
 
@@ -26,7 +25,7 @@ https://github.com/Ruzman225
 https://www.linkedin.com/in/ruzman-sanadi-962a3b28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-Portfolio Topic
+Adaptive E-Learning Platform
 
 <dl>
 <dt>Course Name</dt>
